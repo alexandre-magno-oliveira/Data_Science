@@ -1,5 +1,5 @@
-<h3>Portfólio de Projetos de Data Science</h3>
-<h4>Material e projetos para estudo</h4>
+<h3>Portfolio of Data Science Projects</h3>
+<h4>Resources for studies</h4>
 <img src='/images/banner.png'>
 
 <h3> DATA ANALYSTS X DATA SCIENTISTS </h3>
