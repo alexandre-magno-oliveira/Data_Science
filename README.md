@@ -44,7 +44,7 @@
 </ul>
 
 <div>
-  <h3>REFERENCES</h3>
+  <h3></h3>
   
 
 
